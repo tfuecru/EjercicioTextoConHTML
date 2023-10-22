@@ -1,0 +1,16 @@
+<main>
+        <div class="seccion">
+            <img src="Recursos/logo.png" id="foto">
+        </div>
+        <div id="texto" class="seccion">
+            <p>
+                Casa Tati es la casa de todos, es hospitalidad. Nuestra filosofía se basa en la felicidad y la sencillez, es un lugar donde queremos que se encuentren cómodas todas las personas que vienen a nuestra casa y la hagan suya.<br><br>
+                En Casa Tati basamos nuestra filosofía en una casa de comidas. Es un restaurante sencillo y contemporáneo, donde incluimos productos de temporada, donde el tiempo a la hora de cocinar es una inversión en el placer culinario y donde nuestra bodega lo acompaña a la perfección.<br><br>
+                Complemento al restaurante tradicional, casa Tati es un espacio gastronómico con entidad propia y carta de carácter más informal y con elaboraciones para compartir representativas de las distintas comarcas granadinas.<br><br>
+                Ven a nuestras instalaciones ubicadas en C.Andrés Segovia, 23 (frente parque Abuelito José).<br><br>
+                Síguenos en redes sociales para estar al día de novedades, eventos, concursos y descuentos exclusivos por ser fan. <br><br>
+                Esperamos ansiosos vuestra visita, estamos seguros que os encantará nuestra gastronomía.<br><br>
+                Un abrazo, y hasta pronto!!!
+            </p>
+        </div>
+</main>

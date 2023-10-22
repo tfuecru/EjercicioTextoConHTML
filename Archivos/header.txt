@@ -1,0 +1,24 @@
+<body>
+
+    <header>
+        <ul>
+            <li>
+                INICIO
+            </li>
+            <li>
+                GALERIA
+            </li>
+            <li>
+                CHEFS
+            </li>
+            <li>
+                DÓNDE ESTAMOS
+            </li>
+            <li>
+                SERVICIOS
+            </li>
+            <li>
+                CONTACTO
+            </li>
+        </ul>
+    </header>
